@@ -1,0 +1,143 @@
+[[yyjson]]
+arch = "aarch64"
+git-tree-sha1 = "0300fe1cf08e0e7bf426e93063deaeb1fd965353"
+os = "macos"
+
+    [[yyjson.download]]
+    sha256 = "41bdbb6bd1c5e0082055215a4c72bb99abe44032ea51248712ddc8c61324a91e"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.aarch64-apple-darwin.tar.gz"
+[[yyjson]]
+arch = "aarch64"
+git-tree-sha1 = "133b0c47a18fe92b524bb7848a76e43d08934c57"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "f6b9ef130dc5e4b226e9905b4e5fc7ece1698a01f89df2742e4613fc2399ef90"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.aarch64-linux-gnu.tar.gz"
+[[yyjson]]
+arch = "aarch64"
+git-tree-sha1 = "5750f2e0038c875cc488ed313c582e322df28129"
+libc = "musl"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "f7b1627c5a3bd33c9999741ff1c628e80128e9915db1d5b6d46182a4955e04ab"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.aarch64-linux-musl.tar.gz"
+[[yyjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9c2021d80ae085909f1563fb80351d16093c4cd9"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "990ac48f43b17c26d30f880ed34182e00b02e9e0d8d7c3e504d463292edb2d8f"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.armv6l-linux-gnueabihf.tar.gz"
+[[yyjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b7d8ed55cdcf8cc5762cb4117778f38b19ffdf4e"
+libc = "musl"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "2327c1286ebae9ba15ca6a13de475178147e7d95b9423593c15b095a2bc7c821"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.armv6l-linux-musleabihf.tar.gz"
+[[yyjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5667b4e04233026a576a5f77298b22ace3c79ad"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "a600b362068ad66473c4f596608b574b07fd94ef4e8b7f45911f82774f65b2c5"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.armv7l-linux-gnueabihf.tar.gz"
+[[yyjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9985d8dd7a0bcb8162487605268e7fa506e7b61a"
+libc = "musl"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "38ef0af48009555ff2c82e50bce9a740ef82d33b7739c480b1c805858e0f8990"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.armv7l-linux-musleabihf.tar.gz"
+[[yyjson]]
+arch = "i686"
+git-tree-sha1 = "1a7dd09462fc291453780aa516c719fa18bab487"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "8c1397c035997733fc6b0badf4efde7882982f7ba7d1fb3b961737ee5cdb4eee"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.i686-linux-gnu.tar.gz"
+[[yyjson]]
+arch = "i686"
+git-tree-sha1 = "52904dc8b091c4dacbc3747d19fdbd4dc606a71c"
+libc = "musl"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "9f58b772bc65b7234cff12a09ece9e183827804e00584fc2d02760ac8944d0bf"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.i686-linux-musl.tar.gz"
+[[yyjson]]
+arch = "i686"
+git-tree-sha1 = "ccc3c36490e0adfc687b55284bc1d761cd767416"
+os = "windows"
+
+    [[yyjson.download]]
+    sha256 = "f3184bd9d5b2f0037702579ded2da349ea7ef635a980cb4d3fcf22f9fa094777"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.i686-w64-mingw32.tar.gz"
+[[yyjson]]
+arch = "powerpc64le"
+git-tree-sha1 = "ed1b6a8254fa3c76701c2897764ff0844a4bffeb"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "026e1640a6928f4a3ef9447887ec88690dc66e18949dd3ee1ee53335af1b5991"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.powerpc64le-linux-gnu.tar.gz"
+[[yyjson]]
+arch = "x86_64"
+git-tree-sha1 = "c28e0b86be24c385c3cce43dae6f869b597a4a18"
+os = "macos"
+
+    [[yyjson.download]]
+    sha256 = "c58f640b21e0cf01440316e0a2443a0d29e27e472fb7fc3e1db208a843b8462b"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.x86_64-apple-darwin.tar.gz"
+[[yyjson]]
+arch = "x86_64"
+git-tree-sha1 = "7a33a323a623e1059c462dabbefbe2e81e3f2aa8"
+libc = "glibc"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "58e73676836f71a263d17fb20bc43213d07133df29e83599cf8efca6e9ab43e2"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.x86_64-linux-gnu.tar.gz"
+[[yyjson]]
+arch = "x86_64"
+git-tree-sha1 = "ecfb58b499fd456491fbba1c8670595c15b8c242"
+libc = "musl"
+os = "linux"
+
+    [[yyjson.download]]
+    sha256 = "051ce4b68fd81657b89ad4e679be6e3a1e4e9ff811e02ad4485a6c5e8be620ef"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.x86_64-linux-musl.tar.gz"
+[[yyjson]]
+arch = "x86_64"
+git-tree-sha1 = "a8e14238c8e940e0c01f08af3fec58a80f24bf94"
+os = "freebsd"
+
+    [[yyjson.download]]
+    sha256 = "ccf24f17a939a241f6477d7ae8ba605c1c93b33771fc982ca05c2e025d1f86d5"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.x86_64-unknown-freebsd.tar.gz"
+[[yyjson]]
+arch = "x86_64"
+git-tree-sha1 = "efa89f9a521294587e2e4ea163200542ef62ab32"
+os = "windows"
+
+    [[yyjson.download]]
+    sha256 = "f3f6431f4cf52ef3e85fdee06c8922c88de823ff6e1fefcb77a6819fd91a84e5"
+    url = "https://github.com/JuliaBinaryWrappers/yyjson_jll.jl/releases/download/yyjson-v0.10.0+0/yyjson.v0.10.0.x86_64-w64-mingw32.tar.gz"
